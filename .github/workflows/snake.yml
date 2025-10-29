@@ -13,19 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate cyberpunk snake (pink-green with glow)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Cyberpunk Snake (Pink-Green)
+        uses: Platane/snk@v3
         with:
           github_user_name: sinch1717
-          outputs: |
-            dist/snake-cyberpunk.svg
-          color_snake: "#ff00ff"      # Neon pink snake
-          color_snake_tail: "#ff66ff" # Lighter pink tail for glow effect
-          color_dots: "#39ff14"       # Neon green dots (food)
-          color_bg: "#0a0a0a"         # Deep dark background
-          color_grid: "#111111"       # Subtle dark grid (no white glare)
+          outputs: dist/snake-cyberpunk.svg
+          palette: "#0a0a0a #111111 #ff00ff #ff66ff #39ff14"
+          # Order: background, grid, snake, snake-tail, food
 
       - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
