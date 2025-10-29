@@ -2,25 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Sinchana!;AI+%7C+ML+Enthusiast;Learning+AI+%7C+ML+RAGs" />
 </p>
 
+
 # 🌸 Hey there, I'm Sinchana!
 
 🎓 **Computer Science undergraduate**  
 💡 Passionate about building **intelligent, data-driven applications** with clean, intuitive UIs.  
 💻 Mostly working with **Python, React, Flask**, blending frontend creativity with backend logic.
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff99)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff2da3)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff99)
-![FastAPI](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ff2da3)
+## ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+---
 
 ### 🌱 What I’m up to
 - 🚀 Exploring **Full-Stack Development** and **AI Integration**
 - 🔍 Learning **CI/CD**, **Version Control**, and **Model Evaluation**
 - 💬 Always open to **collaborating** on projects with creative and practical impact
-
-<p align="center">
-  <img src="https://github.com/sinch1717/sinch1717/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 ### 🧠 Tech Stack
@@ -29,20 +33,12 @@
 **Databases:** MySQL, MongoDB, Firestore  
 **Other Tools:** Git, GitHub, Postman, Docker (Familiar)  
 
-<p align="center">
-  <img src="https://github.com/sinch1717/sinch1717/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 ### ⚡ What I love
 ✨ Turning ideas into interactive products  
 🧩 Debugging complex problems  
 🎨 Designing simple, user-focused interfaces  
 📈 Building projects that *actually help people*
-
-<p align="center">
-  <img src="https://github.com/sinch1717/sinch1717/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 ### 🌐 Connect with Me
