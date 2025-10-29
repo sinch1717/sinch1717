@@ -1,9 +1,9 @@
-name: Generate Cyberpunk Snake Animation
+name: Generate Snake Animation
 
 on:
-  schedule:
+  schedule: # runs automatically every day
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # allows you to run manually
   push:
     branches:
       - main
@@ -12,20 +12,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Generate cyberpunk snake (pink-green)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate the snake
+        uses: Platane/snk@v3
         with:
           github_user_name: sinch1717
-          outputs: |
-            dist/snake-cyberpunk.svg
-          color_snake: "#ff00ff" # Neon pink snake
-          color_dots: "#39ff14" # Neon green grid dots
-          color_bg: "#0a0a0a"   # Deep black background for contrast
+          outputs: dist/snake.svg
 
-      - name: Push animation to output branch
+      - name: Push the snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
