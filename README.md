@@ -8,10 +8,6 @@
 💡 Passionate about building **intelligent, data-driven applications** with clean, intuitive UIs.  
 💻 Mostly working with **Python, React, Flask**, blending frontend creativity with backend logic.
 
-<p align="center">
-  <img src="https://github.com/sinch1717/sinch1717/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff99)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff2da3)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff99)
@@ -54,10 +50,6 @@
 - [💻 GitHub](https://github.com/sinch1717)  
 - ✉️ Email: **sinchana1705@gmail.com**
 
-<p align="center">
-  <img src="https://github.com/sinch1717/sinch1717/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 ### ✨ Fun Fact
 I love drawing and painting.
@@ -69,3 +61,4 @@ I love drawing and painting.
 
 ![Sinchana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinch1717&show_icons=true&bg_color=000000&title_color=ff2da3&text_color=00ff99&icon_color=ff2da3)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinch1717&layout=compact&bg_color=000000&title_color=ff2da3&text_color=00ff99)
+
