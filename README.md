@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Sinchana!;Full+Stack+Developer+%7C+AI+Enthusiast;Creating+Neon+Ideas+in+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Sinchana!;AI+%7C+ML+Enthusiast;Learning+AI+%7C+ML+RAGs" />
 </p>
 
 # 🌸 Hey there, I'm Sinchana!
@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff99)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff2da3)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff99)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ff2da3)
+![FastAPI](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ff2da3)
 
 ### 🌱 What I’m up to
 - 🚀 Exploring **Full-Stack Development** and **AI Integration**
