@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🌸 Hey there, I'm Sinchana!
 
-<!--
-**sinch1717/sinch1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science undergraduate**  
+💡 Passionate about building **intelligent, data-driven applications** with clean, intuitive UIs.  
+💻 Mostly working with **Python, React, Flask**, blending frontend creativity with backend logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m up to
+- 🚀 Exploring **Full-Stack Development** and **AI Integration**
+- 🔍 Learning **CI/CD**, **Version Control**, and **Model Evaluation**
+- 💬 Always open to **collaborating** on projects with creative and practical impact
+
+---
+
+### 🧠 Tech Stack
+**Languages:** Python, C, C++, Java  
+**Frameworks & Tools:** React, Flask, FastAPI, TailwindCSS, Firebase  
+**Databases:** MySQL, MongoDB, Firestore  
+**Other Tools:** Git, GitHub, Postman, Docker (Familiar)  
+
+---
+
+### ⚡ What I love
+✨ Turning ideas into interactive products  
+🧩 Debugging complex problems  
+🎨 Designing simple, user-focused interfaces  
+📈 Building projects that *actually help people*
+
+---
+
+### 🌐 Connect with Me
+- [💼 LinkedIn](https://linkedin.com/in/sinchanav)  
+- [💻 GitHub](https://github.com/sinch1717)  
+- ✉️ Email: **sinchana1705@gmail.com**
+
+---
+
+### ✨ Fun Fact
+I love drawing and painting.
+
+---
+
+![Sinchana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinch1717&show_icons=true&theme=rose_pine)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinch1717&layout=compact&theme=rose_pine)
