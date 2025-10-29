@@ -50,9 +50,9 @@
 ### ✨ Fun Fact
 I love drawing and painting.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/sinch1717/sinch1717/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 
 
 ![Sinchana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinch1717&show_icons=true&bg_color=000000&title_color=ff2da3&text_color=00ff99&icon_color=ff2da3)
