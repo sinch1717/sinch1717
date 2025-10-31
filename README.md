@@ -11,12 +11,13 @@
 
 ## ⚡ Tech Stack
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20)
+![MongoAtlas](https://img.shields.io/badge/MongoDB%20Atlas-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ---
@@ -31,7 +32,7 @@
 **Languages:** Python, C, C++, Java  
 **Frameworks & Tools:** React, Flask, FastAPI, TailwindCSS, Firebase  
 **Databases:** MySQL, MongoDB, Firestore  
-**Other Tools:** Git, GitHub, Postman, Docker (Familiar)  
+**Other Tools:** Git, GitHub, Postman, Docker  
 
 
 ### ⚡ What I love
@@ -42,8 +43,8 @@
 
 
 ### 🌐 Connect with Me
-- [💼 LinkedIn](https://linkedin.com/in/sinchanav)  
-- [💻 GitHub](https://github.com/sinch1717)  
+- 💼 [LinkedIn](https://linkedin.com/in/sinchanav)  
+- 💻 [GitHub](https://github.com/sinch1717)  
 - ✉️ Email: **sinchana1705@gmail.com**
 
 
@@ -55,6 +56,5 @@ I love drawing and painting.
 </p> -->
 
 
-![Sinchana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinch1717&show_icons=true&bg_color=000000&title_color=ff2da3&text_color=00ff99&icon_color=ff2da3)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinch1717&layout=compact&bg_color=000000&title_color=ff2da3&text_color=00ff99)
 
